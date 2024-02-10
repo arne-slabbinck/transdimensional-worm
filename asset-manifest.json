@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/transdimensional-worm/static/css/main.0d73b98f.css",
+    "main.js": "/transdimensional-worm/static/js/main.406e0984.js",
+    "static/js/592.d9f2c452.chunk.js": "/transdimensional-worm/static/js/592.d9f2c452.chunk.js",
+    "static/media/logo.svg": "/transdimensional-worm/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/transdimensional-worm/index.html",
+    "main.0d73b98f.css.map": "/transdimensional-worm/static/css/main.0d73b98f.css.map",
+    "main.406e0984.js.map": "/transdimensional-worm/static/js/main.406e0984.js.map",
+    "592.d9f2c452.chunk.js.map": "/transdimensional-worm/static/js/592.d9f2c452.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0d73b98f.css",
+    "static/js/main.406e0984.js"
+  ]
+}
